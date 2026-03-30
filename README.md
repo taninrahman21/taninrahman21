@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Tanin+Rahman+%F0%9F%91%8B;WordPress+%26+Gutenberg+Block+Developer;Contributed+to+plugins+with+20k%2B+installs;Always+learning+%7C+Always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I%27m+Tanin+Rahman+%F0%9F%91%8B;WordPress+%26+Gutenberg+Block+Developer;Contributed+to+plugins+with+20k%2B+installs;Always+learning+%7C+Always+shipping)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,7 +15,7 @@
   <a href="https://profiles.wordpress.org/taninrahman/" target="_blank">
     <img src="https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:taninrahman21@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

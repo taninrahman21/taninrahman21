@@ -4,9 +4,9 @@
 
 ### Full-Stack WordPress Developer · AI/MCP Plugin Builder
 
-[![WordPress](https://img.shields.io/badge/WordPress-50K%2B%20Active%20Installs-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/taninrahman/)
-[![Plugins](https://img.shields.io/badge/Plugins-7%20Solely%20Built-FF6B35?style=for-the-badge&logo=plugindock&logoColor=white)](https://profiles.wordpress.org/taninrahman/)
-[![Open to Remote](https://img.shields.io/badge/Open%20To-Remote%20Work-00C896?style=for-the-badge&logo=globe&logoColor=white)](https://www.linkedin.com/in/taninrahman/)
+[![](https://img.shields.io/badge/WordPress-50K%2B%20Active%20Installs-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/taninrahman/)
+[![](https://img.shields.io/badge/Plugins-7%20Solely%20Built-FF6B35?style=for-the-badge&logo=plugindock&logoColor=white)](https://profiles.wordpress.org/taninrahman/)
+[![](https://img.shields.io/badge/Open%20To-Remote%20Work-00C896?style=for-the-badge&logo=globe&logoColor=white)](https://www.linkedin.com/in/taninrahman21/)
 
 </div>
 
@@ -38,12 +38,12 @@ At **bPlugins**, I am the **sole developer** behind 7 WordPress plugins — owni
 |--------|:--------------:|-----------|
 | [📄 PDF Poster](https://wordpress.org/plugins/pdf-poster/) | **20,000+** | Gutenberg block, shortcode system, admin UI |
 | [💻 Advance Custom HTML](https://wordpress.org/plugins/advance-custom-html/) | **10,000+** | React editor, live preview, syntax highlighting |
-| [📎 Document Embedder](https://wordpress.org/plugins/document-embedder/) | **10,000+** | Admin dashboard redesign, block UI |
-| [⏱️ Timeline Block](https://wordpress.org/plugins/timeline-block/) | **3,000+** | Layout engine, horizontal timeline, v2 release |
-| [👁️ Document Viewer](https://wordpress.org/plugins/document-viewer/) | **2,000+** | Viewer block, settings UI, compatibility fixes |
+| [📎 Document Embedder](https://wordpress.org/plugins/document-emberdder/) | **10,000+** | Admin dashboard redesign, block UI |
+| [⏱️ Timeline Block](https://wordpress.org/plugins/timeline-block-block/) | **3,000+** | Layout engine, horizontal timeline, v2 release |
+| [👁️ Document Viewer](https://wordpress.org/plugins/embed-office-viewer/) | **2,000+** | Viewer block, settings UI, compatibility fixes |
 | [📅 B Timeline](https://wordpress.org/plugins/b-timeline/) | **2,000+** | Vertical/horizontal layouts, styling system |
 | [🎙️ StreamCast](https://wordpress.org/plugins/streamcast/) | **1,000+** | Player block UI, streaming embed |
-| 🎤 Voice Feedback | **Growing** | Full admin UI, audio playback, recording interface |
+| [🎤 Voice Feedback](https://wordpress.org/plugins/voice-feedback/) | **Growing** | Full admin UI, audio playback, recording interface |
 
 ---
 
@@ -51,7 +51,7 @@ At **bPlugins**, I am the **sole developer** behind 7 WordPress plugins — owni
 
 > **A WordPress MCP plugin that lets AI agents control your entire WordPress site through natural language.**
 
-**My Site Hand** bridges WordPress with AI agents like **Claude Desktop**, **Cursor**, and **VS Code** using the **Model Context Protocol (JSON-RPC 2.0).** It exposes **46 WordPress abilities** across 6 modules:
+**My Site Hand** bridges WordPress with AI agents like **Claude Desktop**, **Cursor**, and **VS Code** using the **Model Context Protocol (JSON-RPC 2.0).** It exposes **45 WordPress abilities** across 6 modules:
 
 <div align="center">
 
@@ -62,7 +62,7 @@ At **bPlugins**, I am the **sole developer** behind 7 WordPress plugins — owni
 | 🔍 SEO Power Tools | 6 | Audit, analyze & fix SEO across your site |
 | 🖼️ Media Library | 6 | Bulk alt-text, find large/unattached files |
 | 🩺 Diagnostics & Health | 7 | Site health, error logs, cron jobs, DB sizes |
-| 👥 User Management | 6 | Create accounts, manage roles, view stats |
+| 👥 User Management | 5 | Create accounts, manage roles, view stats |
 
 </div>
 
@@ -100,18 +100,6 @@ At **bPlugins**, I am the **sole developer** behind 7 WordPress plugins — owni
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Tanin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taninrahman21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00C896&text_color=ffffff&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taninrahman21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff&langs_count=8)
-
-</div>
-
----
-
 ## 📈 Currently Leveling Up
 
 ```
@@ -126,7 +114,7 @@ AI/MCP       █████████░  Building more AI-powered WP tools
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanin%20Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taninrahman/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanin%20Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taninrahman21/)
 [![WordPress.org](https://img.shields.io/badge/WordPress.org-taninrahman-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/taninrahman/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://tanin-rahman-portfolio.netlify.app)
 

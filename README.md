@@ -73,7 +73,7 @@ At **bPlugins**, I am the **sole developer** behind 7 WordPress plugins — owni
 - ⚡ **Zero-config setup** — via `mcp-remote`, no manual JSON editing
 - 🔧 **Granular module control** — enable/disable any of the 6 modules
 
-> *Currently under WordPress.org review*
+> *[📎 My Site Hand](https://wordpress.org/plugins/my-site-hand/) *
 
 ---
 

@@ -1,65 +1,54 @@
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img src="./assets/banner-light.svg" width="100%" alt="Tanin Rahman, core plugin developer at bPlugins. Commit graph: shipped My Site Hand with 46 agent capabilities; 8 plugins on 50,000+ active sites; joined bPlugins in 2023.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/typing-dark.svg">
+  <img src="./assets/typing-light.svg" width="100%" alt="Hi, I’m Tanin Rahman, core plugin developer at bPlugins. Hand me a spec. Get a shipped product.">
 </picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-c5ee5c?style=flat-square)](https://builtbytanin.netlify.app)
-[![Resume](https://img.shields.io/badge/Resume-c5ee5c?style=flat-square)](https://builtbytanin.netlify.app/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3d2fa8?style=flat-square)](https://www.linkedin.com/in/taninrahman21/)
-[![WordPress.org](https://img.shields.io/badge/WordPress.org-3d2fa8?style=flat-square&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/taninrahman/)
-[![Email](https://img.shields.io/badge/builtbytanin@gmail.com-045458?style=flat-square)](mailto:builtbytanin@gmail.com)
+<a href="https://tanin-rahman-portfolio.netlify.app"><img src="https://img.shields.io/badge/See_my_portfolio-c5ee5c?style=for-the-badge" alt="See my portfolio"></a>
+<a href="https://www.linkedin.com/in/taninrahman21/"><img src="https://img.shields.io/badge/LinkedIn-3d2fa8?style=for-the-badge" alt="LinkedIn"></a>
+<a href="mailto:tanin@bplugins.com"><img src="https://img.shields.io/badge/Email_me-045458?style=for-the-badge" alt="Email me"></a>
 
-Hand me a spec and I'll take it all the way: block architecture, PHP backend, admin UI, security patches, releases, and the support thread that follows. I'm the core developer on eight production WordPress plugins at [bPlugins](https://bplugins.com), and lately I build tools that let AI agents work on real WordPress sites.
-
-<a href="https://github.com/taninrahman21/my-site-hand">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/my-site-hand-dark.svg">
-  <img src="./assets/my-site-hand-light.svg" width="100%" alt="git show my-site-hand: My Site Hand, AI Assistant, Site Health and MCP Server for WordPress with 46 agent capabilities.">
-</picture>
-</a>
-
-[Source](https://github.com/taninrahman21/my-site-hand) · [WordPress.org](https://wordpress.org/plugins/my-site-hand/)
+</div>
 
 <br>
+
+I'm the core developer on eight production WordPress plugins at [bPlugins](https://bplugins.com), running on **50,000+ active sites**. I own the whole lifecycle: block architecture, PHP backend, admin UI, releases, and the support thread that follows. Lately I build tools that let AI agents work on real WordPress sites.
+
+## Skills
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg">
+  <img src="./assets/skills-light.svg" width="100%" alt="Skills. Surface: Gutenberg, Block API, React, JavaScript, SCSS. Backend: PHP 8, WordPress core, REST API, MySQL, security. AI layer: MCP, Abilities API, agent tooling, tool design. Craft: releases, docs, forum support, mentoring.">
+</picture>
+
+## My own plugin: My Site Hand
+
+An AI Assistant, Site Health and MCP Server for WordPress. It lets AI agents read, diagnose and act on a real site.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/my-site-hand-dark.svg">
+  <img src="./assets/my-site-hand-light.svg" width="100%" alt="My Site Hand modules: mcp-server, site-health, ai-assistant, abilities-api. 46 agent capabilities via MCP and the Abilities API.">
+</picture>
+
+<br>
+
+<a href="https://github.com/taninrahman21/my-site-hand"><img src="./assets/key-source.svg" height="56" alt="View the source"></a>&nbsp;
+<a href="https://wordpress.org/plugins/my-site-hand/"><img src="./assets/key-wporg.svg" height="56" alt="Get it on WordPress.org"></a>
+
+## Plugins I ship at bPlugins
 
 <a href="https://profiles.wordpress.org/taninrahman/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/plugins-dark.svg">
-  <img src="./assets/plugins-light.svg" width="100%" alt="git diff --stat: 8 plugins at bPlugins with 50,000+ active installs.">
+  <img src="./assets/plugins-light.svg" width="100%" alt="8 plugins, 50,000+ active sites: PDF Poster 20,000+, Advance Custom HTML 10,000+, Document Embedder 10,000+, Timeline Block 3,000+, Document Viewer 2,000+, B Timeline 2,000+, StreamCast 1,000+, Voice Feedback new.">
 </picture>
 </a>
 
-<details>
-<summary>Open each plugin on WordPress.org</summary>
-<br>
+<sub>Owned by bPlugins. Built, shipped and supported by me. Click the bar to see them all on WordPress.org.</sub>
 
-| Plugin | What it does |
-| :--- | :--- |
-| [PDF Poster](https://wordpress.org/plugins/pdf-poster/) | Embed and display PDFs with a Gutenberg block |
-| [Advance Custom HTML](https://wordpress.org/plugins/advance-custom-html/) | Write HTML, CSS and JS with a live preview |
-| [Document Embedder](https://wordpress.org/plugins/document-emberdder/) | Embed Office docs and PDFs in any post |
-| [Timeline Block](https://wordpress.org/plugins/timeline-block-block/) | Horizontal and vertical timelines as a block |
-| [Document Viewer](https://wordpress.org/plugins/embed-office-viewer/) | View Office files right on the page |
-| [B Timeline](https://wordpress.org/plugins/b-timeline/) | Styled timelines for any story |
-| [StreamCast](https://wordpress.org/plugins/streamcast/) | Live radio streaming with a player block |
-| [Voice Feedback](https://wordpress.org/plugins/voice-feedback/) | Let visitors leave voice messages |
+## Let's talk
 
-<sub>The plugins are owned by bPlugins. I build, ship and support them.</sub>
+Building something with WordPress or AI agents? Press the key and I'll reply within a day.
 
-</details>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg">
-  <img src="./assets/toolkit-light.svg" width="100%" alt="toolkit.json: the tools I work with, grouped as product surface, under the hood, the AI layer, and the unlisted half.">
-</picture>
-
-<br>
-
-<a href="mailto:builtbytanin@gmail.com">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg">
-  <img src="./assets/contact-light.svg" width="100%" alt="git push origin main. Got a product that needs someone who stays? Email builtbytanin@gmail.com.">
-</picture>
-</a>
+<a href="mailto:tanin@bplugins.com"><img src="./assets/key-email.svg" height="78" alt="Email tanin@bplugins.com"></a>

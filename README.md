@@ -5,9 +5,9 @@
   <img src="./assets/typing-light.svg" width="100%" alt="Hi, I’m Tanin Rahman, core plugin developer at bPlugins. Hand me a spec. Get a shipped product.">
 </picture>
 
-<a href="https://tanin-rahman-portfolio.netlify.app"><img src="https://img.shields.io/badge/See_my_portfolio-c5ee5c?style=for-the-badge" alt="See my portfolio"></a>
+<a href="https://builtbytanin.netlify.app"><img src="https://img.shields.io/badge/See_my_portfolio-c5ee5c?style=for-the-badge" alt="See my portfolio"></a>
 <a href="https://www.linkedin.com/in/taninrahman21/"><img src="https://img.shields.io/badge/LinkedIn-3d2fa8?style=for-the-badge" alt="LinkedIn"></a>
-<a href="mailto:tanin@bplugins.com"><img src="https://img.shields.io/badge/Email_me-045458?style=for-the-badge" alt="Email me"></a>
+<a href="mailto:builtbytanin@gmail.com"><img src="https://img.shields.io/badge/Email_me-045458?style=for-the-badge" alt="Email me"></a>
 
 </div>
 
@@ -51,4 +51,4 @@ An AI Assistant, Site Health and MCP Server for WordPress. It lets AI agents rea
 
 Building something with WordPress or AI agents? Press the key and I'll reply within a day.
 
-<a href="mailto:tanin@bplugins.com"><img src="./assets/key-email.svg" height="78" alt="Email tanin@bplugins.com"></a>
+<a href="mailto:builtbytanin@gmail.com"><img src="./assets/key-email.svg" height="78" alt="Email builtbytanin@gmail.com"></a>

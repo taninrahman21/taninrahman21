@@ -18,8 +18,6 @@ Hand me a spec and I'll take it all the way: block architecture, PHP backend, ad
 </picture>
 </a>
 
-> Nobody assigned me this one. I picked the spec up, learned MCP, shipped it to WordPress.org and put my own name on the profile.
-
 [Source](https://github.com/taninrahman21/my-site-hand) · [WordPress.org](https://wordpress.org/plugins/my-site-hand/)
 
 <br>

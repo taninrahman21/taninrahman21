@@ -1,133 +1,67 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" width="100%" alt="Tanin Rahman, core plugin developer at bPlugins. Commit graph: shipped My Site Hand with 46 agent capabilities; 8 plugins on 50,000+ active sites; joined bPlugins in 2023.">
+</picture>
 
-# Hi, I'm Tanin Rahman 👋
+[![Portfolio](https://img.shields.io/badge/Portfolio-c5ee5c?style=flat-square)](https://builtbytanin.netlify.app)
+[![Resume](https://img.shields.io/badge/Resume-c5ee5c?style=flat-square)](https://builtbytanin.netlify.app/resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3d2fa8?style=flat-square)](https://www.linkedin.com/in/taninrahman21/)
+[![WordPress.org](https://img.shields.io/badge/WordPress.org-3d2fa8?style=flat-square&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/taninrahman/)
+[![Email](https://img.shields.io/badge/builtbytanin@gmail.com-045458?style=flat-square)](mailto:builtbytanin@gmail.com)
 
-### Full-Stack WordPress Developer · AI/MCP Plugin Builder
+Hand me a spec and I'll take it all the way: block architecture, PHP backend, admin UI, security patches, releases, and the support thread that follows. I'm the core developer on eight production WordPress plugins at [bPlugins](https://bplugins.com), and lately I build tools that let AI agents work on real WordPress sites.
 
-[![](https://img.shields.io/badge/WordPress-50K%2B%20Active%20Installs-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/taninrahman/)
-[![](https://img.shields.io/badge/Plugins-7%20Solely%20Built-FF6B35?style=for-the-badge&logo=plugindock&logoColor=white)](https://profiles.wordpress.org/taninrahman/)
-[![](https://img.shields.io/badge/Open%20To-Remote%20Work-00C896?style=for-the-badge&logo=globe&logoColor=white)](https://www.linkedin.com/in/taninrahman21/)
+<a href="https://github.com/taninrahman21/my-site-hand">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/my-site-hand-dark.svg">
+  <img src="./assets/my-site-hand-light.svg" width="100%" alt="git show my-site-hand: My Site Hand, AI Assistant, Site Health and MCP Server for WordPress with 46 agent capabilities.">
+</picture>
+</a>
 
-</div>
+> Nobody assigned me this one. I picked the spec up, learned MCP, shipped it to WordPress.org and put my own name on the profile.
 
----
+[Source](https://github.com/taninrahman21/my-site-hand) · [WordPress.org](https://wordpress.org/plugins/my-site-hand/)
 
-## 🧑‍💻 About Me
+<br>
 
-I'm a **Full-Stack WordPress Developer** based in **Dhaka, Bangladesh** with **2+ years** of professional experience building production-grade WordPress plugins running on **50,000+ sites worldwide.**
+<a href="https://profiles.wordpress.org/taninrahman/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plugins-dark.svg">
+  <img src="./assets/plugins-light.svg" width="100%" alt="git diff --stat: 8 plugins at bPlugins with 50,000+ active installs.">
+</picture>
+</a>
 
-At **bPlugins**, I am the **sole developer** behind 7 WordPress plugins — owning every single phase end-to-end:
+<details>
+<summary>Open each plugin on WordPress.org</summary>
+<br>
 
-| | Phase | What I Do |
-|---|---|---|
-| 🔍 | **Product Research** | Competitor analysis, feature discovery, market positioning |
-| ⚙️ | **Development** | Gutenberg blocks, PHP backend, React admin UIs, REST API |
-| 🎨 | **Design** | Admin dashboards, block interfaces, settings panels with SCSS |
-| 🔐 | **Security** | Identifying & patching vulnerabilities in live production plugins |
-| 📝 | **Documentation** | Full readme files, changelogs, and user guides |
-| 💬 | **Support** | Direct communication with real users on WordPress.org forums |
-| 🚀 | **Releases** | Managing every production deployment independently |
+| Plugin | What it does |
+| :--- | :--- |
+| [PDF Poster](https://wordpress.org/plugins/pdf-poster/) | Embed and display PDFs with a Gutenberg block |
+| [Advance Custom HTML](https://wordpress.org/plugins/advance-custom-html/) | Write HTML, CSS and JS with a live preview |
+| [Document Embedder](https://wordpress.org/plugins/document-emberdder/) | Embed Office docs and PDFs in any post |
+| [Timeline Block](https://wordpress.org/plugins/timeline-block-block/) | Horizontal and vertical timelines as a block |
+| [Document Viewer](https://wordpress.org/plugins/embed-office-viewer/) | View Office files right on the page |
+| [B Timeline](https://wordpress.org/plugins/b-timeline/) | Styled timelines for any story |
+| [StreamCast](https://wordpress.org/plugins/streamcast/) | Live radio streaming with a player block |
+| [Voice Feedback](https://wordpress.org/plugins/voice-feedback/) | Let visitors leave voice messages |
 
-> **No team. No handoffs. Just full ownership from idea to live users.**
+<sub>The plugins are owned by bPlugins. I build, ship and support them.</sub>
 
----
+</details>
 
-## 🔌 Plugins I Solely Built & Maintain
+<br>
 
-| Plugin | Active Installs | Highlights |
-|--------|:--------------:|-----------|
-| [📄 PDF Poster](https://wordpress.org/plugins/pdf-poster/) | **20,000+** | Gutenberg block, shortcode system, admin UI |
-| [💻 Advance Custom HTML](https://wordpress.org/plugins/advance-custom-html/) | **10,000+** | React editor, live preview, syntax highlighting |
-| [📎 Document Embedder](https://wordpress.org/plugins/document-emberdder/) | **10,000+** | Admin dashboard redesign, block UI |
-| [⏱️ Timeline Block](https://wordpress.org/plugins/timeline-block-block/) | **3,000+** | Layout engine, horizontal timeline, v2 release |
-| [👁️ Document Viewer](https://wordpress.org/plugins/embed-office-viewer/) | **2,000+** | Viewer block, settings UI, compatibility fixes |
-| [📅 B Timeline](https://wordpress.org/plugins/b-timeline/) | **2,000+** | Vertical/horizontal layouts, styling system |
-| [🎙️ StreamCast](https://wordpress.org/plugins/streamcast/) | **1,000+** | Player block UI, streaming embed |
-| [🎤 Voice Feedback](https://wordpress.org/plugins/voice-feedback/) | **Growing** | Full admin UI, audio playback, recording interface |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg">
+  <img src="./assets/toolkit-light.svg" width="100%" alt="toolkit.json: the tools I work with, grouped as product surface, under the hood, the AI layer, and the unlisted half.">
+</picture>
 
----
+<br>
 
-## 🤖 Personal Project — My Site Hand (AI)
-
-> **A WordPress MCP plugin that lets AI agents control your entire WordPress site through natural language.**
-
-**My Site Hand** bridges WordPress with AI agents like **Claude Desktop**, **Cursor**, and **VS Code** using the **Model Context Protocol (JSON-RPC 2.0).** It exposes **45 WordPress abilities** across 6 modules:
-
-<div align="center">
-
-| Module | Abilities | What AI Can Do |
-|--------|:---------:|----------------|
-| 📝 Content Management | 9 | Create, update, bulk-edit posts & pages |
-| 🛒 WooCommerce | 12 | Manage products, orders, coupons, customers |
-| 🔍 SEO Power Tools | 6 | Audit, analyze & fix SEO across your site |
-| 🖼️ Media Library | 6 | Bulk alt-text, find large/unattached files |
-| 🩺 Diagnostics & Health | 7 | Site health, error logs, cron jobs, DB sizes |
-| 👥 User Management | 5 | Create accounts, manage roles, view stats |
-
-</div>
-
-**Technical highlights:**
-- 🔐 **SHA-256 hashed tokens** — plain text shown only once upon generation
-- 🎯 **Permission mapping** — AI actions bound to WordPress user capabilities
-- 📊 **Full audit logging** — every AI action tracked with timestamp
-- ⚡ **Zero-config setup** — via `mcp-remote`, no manual JSON editing
-- 🔧 **Granular module control** — enable/disable any of the 6 modules
-
-> *[📎 My Site Hand](https://wordpress.org/plugins/my-site-hand/) *
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-
-</div>
-
----
-
-## 📈 Currently Leveling Up
-
-```
-TypeScript   ████████░░  Building type-safe WordPress blocks
-Next.js      ██████░░░░  Expanding into headless WordPress
-AI/MCP       █████████░  Building more AI-powered WP tools
-```
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanin%20Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taninrahman21/)
-[![WordPress.org](https://img.shields.io/badge/WordPress.org-taninrahman-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/taninrahman/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://tanin-rahman-portfolio.netlify.app)
-
-<br/>
-
-**🌍 Open to Remote Full-time · Contract · Freelance**
-
-*If you're building something with WordPress or AI tools — let's talk.*
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=taninrahman21&color=FF6B35&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+<a href="mailto:builtbytanin@gmail.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg">
+  <img src="./assets/contact-light.svg" width="100%" alt="git push origin main. Got a product that needs someone who stays? Email builtbytanin@gmail.com.">
+</picture>
+</a>

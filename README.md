@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="Tanin Rahman, product engineer. I build WordPress products end to end. Lately, the layer for AI agents. 8 production plugins, 50,000+ active installs, 46 agent capabilities, 2.6+ years shipping.">
+<img src="./assets/header.svg" width="100%" alt="Tanin Rahman, product engineer. I build WordPress products end to end. Lately, the layer for AI agents. Open to remote roles.">
 
 <p>
 <a href="https://builtbytanin.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-c5ee5c?style=flat-square" alt="Portfolio"></a>

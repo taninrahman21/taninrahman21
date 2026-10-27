@@ -1,4 +1,7 @@
-<img src="./assets/header.svg" width="100%" alt="Tanin Rahman, product engineer for WordPress and AI agents. Dhaka, Bangladesh. Open to remote roles. Tags: WordPress, Gutenberg, React, PHP 8, REST API, MCP, Abilities API.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Tanin Rahman, product engineer for WordPress and AI agents. Dhaka, Bangladesh. Open to remote roles. Tags: WordPress, Gutenberg, React, PHP 8, REST API, MCP, Abilities API.">
+</picture>
 
 <br>
 
@@ -20,7 +23,7 @@ I've built and owned 8 of [bPlugins](https://bplugins.com)' WordPress plugins, u
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/timeline-dark.svg">
-  <img src="./assets/timeline-light.svg" width="100%" alt="The journey: 2022 learning to build; 2023 first production code at bPlugins; 2023 to 2026 built and owned eight plugins on 50,000+ sites, grew Advance Custom HTML from 6,000 to 10,000+ installs, handed four plugins to juniors I mentored; 2026 AI support for Document Embedder, then My Site Hand; now its first 100 users, TypeScript and Playwright.">
+  <img src="./assets/timeline-light.svg" width="100%" alt="The journey: 2022 learning to build; 2023 first production code at bPlugins; 2023 to 2026 built and owned eight plugins on 50,000+ sites, grew Advance Custom HTML from 6,000 to 10,000+ installs, handed four plugins to juniors I mentored; 2026 AI support for Document Embedder, then My Site Hand; now getting into WordPress core, growing My Site Hand, and studying TypeScript, Next.js, programming fundamentals and database design.">
 </picture>
 
 <sub>First app: [the-smart-tutor-client](https://github.com/taninrahman21/the-smart-tutor-client)</sub>
@@ -42,7 +45,7 @@ I've built and owned 8 of [bPlugins](https://bplugins.com)' WordPress plugins, u
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/title-plugins-dark.svg">
-  <img src="./assets/title-plugins-light.svg" width="100%" alt="03. Plugins">
+  <img src="./assets/title-plugins-light.svg" width="100%" alt="03. Products at bPlugins">
 </picture>
 
 **Leading now**
@@ -105,19 +108,17 @@ v1.0.0, working toward the first 100 real users. &nbsp;[WordPress.org](https://w
 | Area | Tools |
 |:--|:--|
 | **Front end** | Gutenberg, Block API, React, JavaScript, SCSS, Tailwind |
-| **Back end** | PHP 8, WordPress core, REST API, MySQL, Node.js, Express, Firebase |
+| **Back end** | PHP 8, WordPress core, REST API, MySQL, Node.js, Express, MongoDB, Firebase |
 | **AI** | MCP, MCP Adapter, Abilities API |
 | **Workflow** | Webpack, ESLint, Composer, Git |
-| **Learning** | TypeScript, Playwright |
+| **Learning** | TypeScript, Next.js, database design |
 
 <details>
 <summary>Beyond WordPress</summary>
 
 <br>
 
-**Laravel** — A buy-now-pay-later backend: payment state machine, idempotency, webhooks and a ledger.<br>
-**Client system** — Purchase, production, sales, accounts, HR and field marketing, each with its own permissions. <!-- FILL: stack, if the client allows it. --><br>
-**In design** — SiteVoice AI, a brand-voice-aware plugin for meta descriptions and excerpts.
+**Full-stack development** — Before WordPress, I learned to build complete web apps with React, Node.js, Express, MongoDB and Firebase. My first one, [the-smart-tutor-client](https://github.com/taninrahman21/the-smart-tutor-client), used Firebase Auth and went live on Firebase Hosting.
 
 </details>
 

@@ -9,7 +9,7 @@
 <a href="mailto:builtbytanin@gmail.com"><img src="./assets/btn-email.svg" height="40" alt="Email"></a>
 </p>
 
-Core developer at [bPlugins](https://bplugins.com) since 2023. I build WordPress products end to end, from the first forum question to the release after it, and lately the layer that lets AI agents work on a real site.
+I've built and owned 8 of [bPlugins](https://bplugins.com)' WordPress plugins, used on **50,000+ active sites**. Today I lead four of them, after handing the others to junior developers I mentored. Ownership means the full lifecycle: deciding what to build, building it, releasing it, documenting it and supporting the people who use it.
 
 <br>
 
@@ -20,63 +20,72 @@ Core developer at [bPlugins](https://bplugins.com) since 2023. I build WordPress
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/timeline-dark.svg">
-  <img src="./assets/timeline-light.svg" width="100%" alt="The journey: 2022 learning to build; 2023 first production code at bPlugins; 2023 to 2026 owning the full lifecycle of eight plugins with 50,000+ installs; 2026 the AI layer, My Site Hand; now its first 100 users, TypeScript and Playwright.">
+  <img src="./assets/timeline-light.svg" width="100%" alt="The journey: 2022 learning to build; 2023 first production code at bPlugins; 2023 to 2026 built and owned eight plugins on 50,000+ sites, grew Advance Custom HTML from 6,000 to 10,000+ installs, handed four plugins to juniors I mentored; 2026 AI support for Document Embedder, then My Site Hand; now its first 100 users, TypeScript and Playwright.">
 </picture>
 
 <sub>First app: [the-smart-tutor-client](https://github.com/taninrahman21/the-smart-tutor-client)</sub>
 
-<!-- FILL: one real milestone, e.g. a product you took over or built from scratch, with the year -->
-
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-process-dark.svg">
-  <img src="./assets/title-process-light.svg" width="100%" alt="02. How I own a product">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-results-dark.svg">
+  <img src="./assets/title-results-light.svg" width="100%" alt="02. Key results">
 </picture>
 
-<img src="./assets/lifecycle.svg" width="100%" alt="Analyse, Plan, Implement, Release, Support, Document">
-
-**Analyse** — Forum threads, feature requests, and how competitors solve it.<br>
-**Plan** — Scope and approach before code. I'm in product decisions, not only tickets.<br>
-**Implement** — React block, PHP 8 backend, REST endpoints, an admin UI that needs no manual.<br>
-**Release** — Versions, tags, security patches, a consistent changelog.<br>
-**Support** — I answer the forum myself. That is where the next analysis starts.<br>
-**Document** — Plugin docs and a `readme.txt` that never drifts from the code.
+- **+67% installs.** Grew [Advance Custom HTML](https://wordpress.org/plugins/advance-custom-html/) from 6,000 to 10,000+ active installs while I owned it, by rebuilding it with a React code editor, live preview and syntax highlighting.
+- **Fastest-growing of 105.** Owned [PDF Poster](https://wordpress.org/plugins/pdf-poster/) as it became the fastest-growing plugin in bPlugins' 105-plugin portfolio, now at 20,000+ installs, adding 5 viewer modes, document analytics and watermarking.
+- **AI with privacy built in.** Pitched, designed and built AI support for [Document Embedder](https://wordpress.org/plugins/document-emberdder/) with the WordPress Abilities API and MCP Adapter. Access is read-only and role-based, so site data stays private.
+- **Security.** Found and patched security vulnerabilities across multiple releases.
+- **Recognition.** Best Performer Award during bPlugins' "Lightning Support Sunday".
 
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/title-plugins-dark.svg">
-  <img src="./assets/title-plugins-light.svg" width="100%" alt="03. Plugins I ship">
+  <img src="./assets/title-plugins-light.svg" width="100%" alt="03. Plugins">
 </picture>
 
-| Plugin | Installs | My part |
-|:--|--:|:--|
-| [PDF Poster](https://wordpress.org/plugins/pdf-poster/) | 20,000+ | 3D flipbook viewer, admin chatbot |
-| [Advance Custom HTML](https://wordpress.org/plugins/advance-custom-html/) | 10,000+ | React editor, live preview |
-| [Document Embedder](https://wordpress.org/plugins/document-emberdder/) | 10,000+ | Dashboard redesign, v2.3.0 |
-| [Timeline Block](https://wordpress.org/plugins/timeline-block/) | 3,000+ | Layout engine, v2 |
-| [Document Viewer](https://wordpress.org/plugins/embed-office-viewer/) | 2,000+ | Viewer block, settings UI |
-| [B Timeline](https://wordpress.org/plugins/b-timeline/) | 2,000+ | Layouts, styling system |
-| [StreamCast](https://wordpress.org/plugins/streamcast/) | 1,000+ | Player block UI |
-| [Voice Feedback](https://wordpress.org/plugins/voice-feedback/) | New | Built from scratch |
+**Leading now**
 
-<sub>bPlugins products, built by a team. The last column is what I built or changed.</sub>
+| Plugin | Installs | Rating | What I added |
+|:--|--:|:--:|:--|
+| [PDF Poster](https://wordpress.org/plugins/pdf-poster/) | 20,000+ | | 5 viewer modes, document analytics, watermarking |
+| [Document Embedder](https://wordpress.org/plugins/document-emberdder/) | 9,000+ | 4.9 / 5 | AI support via Abilities API and MCP Adapter |
+| [Document Viewer](https://wordpress.org/plugins/embed-office-viewer/) | 2,000+ | 4.7 / 5 | Viewer block, settings UI |
+| [Voice Feedback](https://wordpress.org/plugins/voice-feedback/) | New | 5 / 5 | Built from scratch |
 
-<!--
-Publish only after the fix has shipped.
+**Built or grew, now maintained by developers I mentored**
 
-**Auditing my own product.** I audited PDF Poster v2.5.2 and found a hardcoded API key, SQL injection and missing nonce checks. They were fixed in [FILL: version]. That is why I treat security as part of the feature, not a last step.
--->
+[Advance Custom HTML](https://wordpress.org/plugins/advance-custom-html/) &nbsp;·&nbsp; [Timeline Block](https://wordpress.org/plugins/timeline-block/) &nbsp;·&nbsp; [Timeline](https://wordpress.org/plugins/b-timeline/) &nbsp;·&nbsp; [StreamCast](https://wordpress.org/plugins/streamcast/)
+
+<sub>bPlugins products, built by a team.</sub>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-process-dark.svg">
+  <img src="./assets/title-process-light.svg" width="100%" alt="04. How I own a product">
+</picture>
+
+<img src="./assets/lifecycle.svg" width="100%" alt="Analyse, Plan, Implement, Release, Support, Document">
+
+**Analyse** — User feedback, forum threads and competitor research decide what gets built.<br>
+**Plan** — Scope and approach before code. I pitch features, not only take tickets.<br>
+**Implement** — Gutenberg blocks with the Block API, React admin dashboards and live previews, PHP hooks, REST endpoints and shortcodes.<br>
+**Release** — Versions, changelogs, readme files, and security patches when they're needed.<br>
+**Support** — I answer users from many countries on the WordPress.org forums, and fix the conflicts and bugs they find in live products.<br>
+**Document** — Plugin docs that stay in step with the code.
+
+**Beyond the code**, I mentor junior developers on Gutenberg block development, and I'm content manager for bPlugins' WordPress Gutenberg Block Editor Community on Facebook.
 
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/title-ai-dark.svg">
-  <img src="./assets/title-ai-light.svg" width="100%" alt="04. My Site Hand">
+  <img src="./assets/title-ai-light.svg" width="100%" alt="05. My Site Hand">
 </picture>
 
-AI assistants talk well about a site but know nothing real about it. **[My Site Hand](https://wordpress.org/plugins/my-site-hand/)** gives them a proper way in:
+AI assistants talk well about a site but know nothing real about it. **[My Site Hand](https://wordpress.org/plugins/my-site-hand/)**, my own plugin, gives them a proper way in:
 
 - **46 abilities** registered through WordPress's Abilities API, each one permission-checked
 - **A built-in MCP server**, so Claude Desktop, Cursor and VS Code connect with one generated command
@@ -90,14 +99,14 @@ v1.0.0, working toward the first 100 real users. &nbsp;[WordPress.org](https://w
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/title-toolkit-dark.svg">
-  <img src="./assets/title-toolkit-light.svg" width="100%" alt="05. Toolkit">
+  <img src="./assets/title-toolkit-light.svg" width="100%" alt="06. Toolkit">
 </picture>
 
 | Area | Tools |
 |:--|:--|
 | **Front end** | Gutenberg, Block API, React, JavaScript, SCSS, Tailwind |
 | **Back end** | PHP 8, WordPress core, REST API, MySQL, Node.js, Express, Firebase |
-| **AI** | MCP, Abilities API |
+| **AI** | MCP, MCP Adapter, Abilities API |
 | **Workflow** | Webpack, ESLint, Composer, Git |
 | **Learning** | TypeScript, Playwright |
 
@@ -118,7 +127,7 @@ v1.0.0, working toward the first 100 real users. &nbsp;[WordPress.org](https://w
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/title-contact-dark.svg">
-  <img src="./assets/title-contact-light.svg" width="100%" alt="06. Let's talk">
+  <img src="./assets/title-contact-light.svg" width="100%" alt="07. Let's talk">
 </picture>
 
 Hiring for a product-minded WordPress or full-stack role? I ship, support what I ship, and keep learning.

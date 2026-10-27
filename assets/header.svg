@@ -1,18 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="232" viewBox="0 0 900 232" role="img" aria-labelledby="t d">
-  <title id="t">Tanin Rahman, product engineer</title>
-  <desc id="d">I build WordPress products end to end. Lately, the layer for AI agents. Open to remote roles.</desc>
-  <style>
-    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
-    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-  </style>
-  <rect width="900" height="232" rx="18" fill="#111316"/>
-
-  <circle cx="53" cy="56" r="5" fill="#c5ee5c"/>
-  <text x="68" y="61" class="mono" font-size="15" letter-spacing="1.5" fill="#b4bac2">TANIN RAHMAN · PRODUCT ENGINEER · DHAKA</text>
-
-  <rect x="672" y="38" width="180" height="36" rx="18" fill="#c5ee5c"/>
-  <text x="762" y="61" class="sans" font-size="15" font-weight="600" fill="#111316" text-anchor="middle">Open to remote roles</text>
-
-  <text x="48" y="138" class="sans" font-size="40" font-weight="600" fill="#f7f6f1" letter-spacing="-0.5">I build WordPress products end to end.</text>
-  <text x="48" y="190" class="sans" font-size="40" font-weight="600" fill="#b4bac2" letter-spacing="-0.5">Lately, the layer for <tspan fill="#c5ee5c">AI agents.</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="248" viewBox="0 0 900 248" role="img" aria-label="Tanin Rahman, product engineer for WordPress and AI agents. Dhaka, Bangladesh. Open to remote roles.">
+  <title>Tanin Rahman, product engineer for WordPress and AI agents. Dhaka, Bangladesh. Open to remote roles.</title>
+  <style>.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}</style>
+  <rect width="900" height="248" rx="18" fill="#111316"/>
+  <circle cx="86" cy="84" r="38" fill="#c5ee5c"/>
+  <text x="86" y="93" class="sans" font-size="24" font-weight="700" fill="#111316" text-anchor="middle">TR</text>
+  <text x="144" y="78" class="sans" font-size="36" font-weight="700" fill="#f7f6f1" letter-spacing="-0.6">Tanin Rahman</text>
+  <text x="144" y="108" class="sans" font-size="17" fill="#b4bac2">Product engineer · WordPress &amp; AI agents · Dhaka</text>
+  <rect x="652" y="44" width="200" height="36" rx="18" fill="none" stroke="#c5ee5c" stroke-width="1.5"/>
+  <circle cx="676" cy="62" r="4" fill="#c5ee5c"/>
+  <text x="764" y="67" class="sans" font-size="15" font-weight="600" fill="#c5ee5c" text-anchor="middle">Open to remote roles</text>
+  <line x1="48" y1="150" x2="852" y2="150" stroke="#2a2d33"/>
+  <rect x="48" y="176" width="101" height="32" rx="16" fill="#1a1d21" stroke="#3d444d"/>
+  <text x="98.5" y="197" class="mono" font-size="13" fill="#d0d4da" text-anchor="middle">WordPress</text>
+  <rect x="159" y="176" width="101" height="32" rx="16" fill="#1a1d21" stroke="#3d444d"/>
+  <text x="209.5" y="197" class="mono" font-size="13" fill="#d0d4da" text-anchor="middle">Gutenberg</text>
+  <rect x="270" y="176" width="70" height="32" rx="16" fill="#1a1d21" stroke="#3d444d"/>
+  <text x="305.0" y="197" class="mono" font-size="13" fill="#d0d4da" text-anchor="middle">React</text>
+  <rect x="350" y="176" width="70" height="32" rx="16" fill="#1a1d21" stroke="#3d444d"/>
+  <text x="385.0" y="197" class="mono" font-size="13" fill="#d0d4da" text-anchor="middle">PHP 8</text>
+  <rect x="430" y="176" width="93" height="32" rx="16" fill="#1a1d21" stroke="#3d444d"/>
+  <text x="476.5" y="197" class="mono" font-size="13" fill="#d0d4da" text-anchor="middle">REST API</text>
+  <rect x="533" y="176" width="54" height="32" rx="16" fill="#1a1d21" stroke="#3d444d"/>
+  <text x="560.0" y="197" class="mono" font-size="13" fill="#d0d4da" text-anchor="middle">MCP</text>
+  <rect x="597" y="176" width="133" height="32" rx="16" fill="#1a1d21" stroke="#3d444d"/>
+  <text x="663.5" y="197" class="mono" font-size="13" fill="#d0d4da" text-anchor="middle">Abilities API</text>
 </svg>

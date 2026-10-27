@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="602" viewBox="0 0 900 602" role="img" aria-label="The journey: 2022 learning to build; 2023 first production code at bPlugins; 2023 to 2026 owning the full lifecycle of eight plugins with 50,000+ installs; 2026 the AI layer, My Site Hand; now its first 100 users, TypeScript and Playwright.">
+  <title>The journey: 2022 learning to build; 2023 first production code at bPlugins; 2023 to 2026 owning the full lifecycle of eight plugins with 50,000+ installs; 2026 the AI layer, My Site Hand; now its first 100 users, TypeScript and Playwright.</title>
+  <style>.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}</style>
+  <line x1="150" y1="34" x2="150" y2="388" stroke="#c5ee5c" stroke-width="2.5"/>
+  <line x1="150" y1="388" x2="150" y2="506" stroke="#3d444d" stroke-width="2.5" stroke-dasharray="4 6"/>
+  <circle cx="150" cy="34" r="8" fill="#c5ee5c" stroke="#c5ee5c" stroke-width="2"/>
+  <text x="120" y="40" class="mono" font-size="16" font-weight="700" fill="#f0f6fc" text-anchor="end">2022</text>
+  <text x="184" y="41" class="sans" font-size="21" font-weight="700" fill="#f0f6fc" letter-spacing="-0.3">Learning to build</text>
+  <text x="184" y="70" class="sans" font-size="16" fill="#9198a1">Programming Hero for web development, Learn with Sumit for React and Next.js.</text>
+  <text x="184" y="94" class="sans" font-size="16" fill="#9198a1">First full-stack app: the-smart-tutor-client, from empty folder to live URL.</text>
+  <circle cx="150" cy="152" r="8" fill="#c5ee5c" stroke="#c5ee5c" stroke-width="2"/>
+  <text x="120" y="158" class="mono" font-size="16" font-weight="700" fill="#f0f6fc" text-anchor="end">2023</text>
+  <text x="184" y="159" class="sans" font-size="21" font-weight="700" fill="#f0f6fc" letter-spacing="-0.3">First production code</text>
+  <text x="184" y="188" class="sans" font-size="16" fill="#9198a1">Joined bPlugins. My first Gutenberg blocks and PHP backends reached real sites.</text>
+  <text x="184" y="212" class="sans" font-size="16" fill="#9198a1">Started answering support threads for what I shipped, and never stopped.</text>
+  <circle cx="150" cy="270" r="8" fill="#c5ee5c" stroke="#c5ee5c" stroke-width="2"/>
+  <text x="120" y="276" class="mono" font-size="16" font-weight="700" fill="#f0f6fc" text-anchor="end">2023–26</text>
+  <text x="184" y="277" class="sans" font-size="21" font-weight="700" fill="#f0f6fc" letter-spacing="-0.3">Owning the whole product</text>
+  <text x="184" y="306" class="sans" font-size="16" fill="#9198a1">From interface work on one plugin to the full lifecycle of eight.</text>
+  <text x="184" y="330" class="sans" font-size="16" fill="#9198a1">50,000+ active installs across PDF Poster, Advance Custom HTML and more.</text>
+  <circle cx="150" cy="388" r="8" fill="#c5ee5c" stroke="#c5ee5c" stroke-width="2"/>
+  <text x="120" y="394" class="mono" font-size="16" font-weight="700" fill="#f0f6fc" text-anchor="end">2026</text>
+  <text x="184" y="395" class="sans" font-size="21" font-weight="700" fill="#f0f6fc" letter-spacing="-0.3">The AI layer</text>
+  <text x="184" y="424" class="sans" font-size="16" fill="#9198a1">Built My Site Hand, my own plugin: an MCP server that gives AI agents</text>
+  <text x="184" y="448" class="sans" font-size="16" fill="#9198a1">46 permission-checked WordPress abilities.</text>
+  <circle cx="150" cy="506" r="13" fill="#c5ee5c" fill-opacity="0.25"/>
+  <circle cx="150" cy="506" r="7" fill="none" stroke="#c5ee5c" stroke-width="2.5"/>
+  <text x="120" y="512" class="mono" font-size="16" font-weight="700" fill="#f0f6fc" text-anchor="end">NOW</text>
+  <text x="184" y="513" class="sans" font-size="21" font-weight="700" fill="#f0f6fc" letter-spacing="-0.3">What's next</text>
+  <text x="184" y="542" class="sans" font-size="16" fill="#9198a1">My Site Hand's first 100 users, a TypeScript roadmap, Playwright E2E,</text>
+  <text x="184" y="566" class="sans" font-size="16" fill="#9198a1">and a custom business system for a client.</text>
+</svg>

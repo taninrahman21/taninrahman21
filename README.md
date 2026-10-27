@@ -50,12 +50,35 @@ I've built and owned 8 of [bPlugins](https://bplugins.com)' WordPress plugins, u
 
 **Leading now**
 
-| Plugin | Installs | Rating | What I added |
-|:--|--:|:--:|:--|
-| [PDF Poster](https://wordpress.org/plugins/pdf-poster/) | 20,000+ | | 5 viewer modes, document analytics, watermarking |
-| [Document Embedder](https://wordpress.org/plugins/document-emberdder/) | 9,000+ | 4.9 / 5 | AI support via Abilities API and MCP Adapter |
-| [Document Viewer](https://wordpress.org/plugins/embed-office-viewer/) | 2,000+ | 4.7 / 5 | Viewer block, settings UI |
-| [Voice Feedback](https://wordpress.org/plugins/voice-feedback/) | New | 5 / 5 | Built from scratch |
+#### [PDF Poster](https://wordpress.org/plugins/pdf-poster/) &nbsp;·&nbsp; 20,000+ installs &nbsp;·&nbsp; ★ 4.5
+
+- **5 viewer modes:** Default, Adobe, Flipbook, Scroll and Slider, with progressive loading for large PDFs, a popup lightbox, RTL support and light/dark themes
+- **Document Insights:** view and download analytics that work behind page caches, store no IP addresses or cookies, and add per-document reports and CSV export
+- **Watermarking:** text or logo marks, tiled coverage, page and audience rules, and a mark that restores itself if someone deletes it
+- **More ways in:** a PDF chatbot, social sharing, and native WPBakery and Elementor support
+- **Reliability and security:** fixed loading on iOS, Android and CDN-hosted PDFs, CJK text rendering and broken links after site moves; secured REST endpoints and AJAX inputs
+
+#### [Document Embedder](https://wordpress.org/plugins/document-emberdder/) &nbsp;·&nbsp; 9,000+ installs &nbsp;·&nbsp; ★ 4.9
+
+- **AI Agent Access:** AI assistants read documents, stats, leads and Insights through the Abilities API and MCP, with read-only, role-based access
+- **Viewers:** 3D flipbook, a custom PDF.js viewer, slideshow and lightbox modes, with lazy and partial loading so large files open fast
+- **Downloads and leads:** an email gate with a leads dashboard and CSV export, per-IP limits, role-based access and time-limited download links
+- **Growth features:** Document Insights, Box integration, Grid and List library layouts, an Elementor widget and a redesigned admin
+- **Security:** fixed a stored XSS issue and hardened download permissions
+
+#### [Document Viewer](https://wordpress.org/plugins/embed-office-viewer/) &nbsp;·&nbsp; 2,000+ installs &nbsp;·&nbsp; ★ 4.7
+
+- **Rebuilt block settings** into four clear panels with plain wording for non-technical users
+- **One rendering path:** legacy shortcodes now render through the Gutenberg block engine
+- **Content protection:** closed copy, select-all, save and print shortcut bypasses
+- **Cleaner core:** Composer autoloading, a restructured codebase and a new admin dashboard
+
+#### [Voice Feedback](https://wordpress.org/plugins/voice-feedback/) &nbsp;·&nbsp; New &nbsp;·&nbsp; ★ 5.0
+
+- **Built from scratch:** feedback drawer, Gutenberg block, shortcode and an admin audio library
+- **Admin email alerts** with the recording attached, and a move from AJAX to the REST API
+- **Spam control:** an email gate and free Cloudflare Turnstile protection
+- **Redesigned dashboard** with a modern settings layout
 
 **Built or grew, now maintained by developers I mentored**
 
